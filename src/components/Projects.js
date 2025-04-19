@@ -20,7 +20,7 @@ function Projects() {
             <Card className="shadow-sm h-100">
               <Card.Body>
                 <Card.Title>Vidio App</Card.Title>
-                <Card.Text>A CRUD app to manage students using Flask and JSON Server.
+                <Card.Text>A CRUD app using Flask and JSON Server.
                 </Card.Text>
               </Card.Body>
             </Card>
