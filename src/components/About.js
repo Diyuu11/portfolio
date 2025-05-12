@@ -40,7 +40,7 @@ function About() {
             I'm <strong>Hamdi</strong>, a self-driven <span className="text-success fw-bold">Software Engineer</span> with a passion for clean code,
             great UI, and building full-stack apps. I love Flask, React, and creating awesome user experiences.
           </p>
-          <a href="/Dee-Resume.pdf" download>
+          <a href="/hamdi-aden-cv.pdf" download>
             <Button variant="outline-primary" className="mt-3">
               📄 Download Resume
             </Button>
